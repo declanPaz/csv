@@ -1,0 +1,27 @@
+{
+  "name": "cd",
+  "version": "1.0.0",
+  "description": "tryout",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kiel barry",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.2",
+    "chalk": "^1.1.3",
+    "http": "0.0.0",
+    "jwt-secret": "^1.1.1",
+    "mongoose": "^4.6.6",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "unknown"
+  }
+}

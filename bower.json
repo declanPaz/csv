@@ -1,0 +1,14 @@
+{
+  "name": "code",
+  "description": "",
+  "main": "main.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
